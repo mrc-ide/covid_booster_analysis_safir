@@ -1,0 +1,13 @@
+name,strategy_name,total_doses_med,infections,hospitalisations,deaths
+rq1_hic,"primary 10+, 3 doses only",2436435,1747,4698,883
+rq1_hic,"primary 10+, boost 75+ yearly",2672700,1697,3751,604
+rq1_hic,"primary 10+, boost 75+ 6 monthly",2908965,1682,3564,548
+rq1_hic,"primary 10+, boost 60+ yearly",3196449,1572,2874,481
+rq1_hic,"primary 10+, boost 60+ 6 monthly",3956463,1506,2423,380
+rq1_hic,"primary 10+, boost 10+ yearly",4460677,774,1366,237
+rq3_hic,"primary 10+, 3 doses only",2436435,2307,7176,1318
+rq3_hic,"primary 10+, boost 75+ yearly",2672700,2263,5785,914
+rq3_hic,"primary 10+, boost 75+ 6 monthly",2908965,2270,5586,828
+rq3_hic,"primary 10+, boost 60+ yearly",3196449,2115,4586,750
+rq3_hic,"primary 10+, boost 60+ 6 monthly",3956463,2062,4054,618
+rq3_hic,"primary 10+, boost 10+ yearly",4460677,1332,2976,464

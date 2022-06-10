@@ -1,0 +1,5 @@
+name,strategy_name,total_doses_med,infections,hospitalisations,deaths
+rq2_lmic,No additional doses,445664,2226,2039,358
+rq2_lmic,2 doses + booster,667086,2103,1695,285
+rq2_lmic,Expand 2 doses,668432,2188,2018.5,351
+rq2_lmic,Annual booster,891540,2041,1574.5,254

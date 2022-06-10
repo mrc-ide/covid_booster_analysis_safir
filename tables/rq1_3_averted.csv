@@ -1,0 +1,11 @@
+name,strategy_name,total_doses_med,infections,hospitalisations,deaths,cost_per_hosp1,cost_per_hosp2,cost_per_hosp3,cost_per_death1,cost_per_death2,cost_per_death3
+rq1_hic,"primary 10+, boost 75+ yearly",236265,50,947,279,499,4990,12474,1694,16937,42341
+rq1_hic,"primary 10+, boost 75+ 6 monthly",472530,65,1134,335,833,8334,20835,2821,28211,70527
+rq1_hic,"primary 10+, boost 60+ yearly",760014,175,1824,402,833,8333,20834,3781,37812,94529
+rq1_hic,"primary 10+, boost 60+ 6 monthly",1520028,241,2275,503,1336,13363,33407,6044,60438,151096
+rq1_hic,"primary 10+, boost 10+ yearly",2024242,972,3332,646,1215,12150,30376,6267,62670,156675
+rq3_hic,"primary 10+, boost 75+ yearly",236265,44,1391,404,340,3397,8493,1170,11696,29241
+rq3_hic,"primary 10+, boost 75+ 6 monthly",472530,37,1590,490,594,5944,14859,1929,19287,48217
+rq3_hic,"primary 10+, boost 60+ yearly",760014,191,2590,568,587,5869,14672,2676,26761,66903
+rq3_hic,"primary 10+, boost 60+ 6 monthly",1520028,244,3122,700,974,9738,24344,4343,43429,108573
+rq3_hic,"primary 10+, boost 10+ yearly",2024242,975,4200,854,964,9639,24098,4741,47406,118515

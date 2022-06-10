@@ -1,0 +1,4 @@
+name,strategy_name,variant_scenario,total_doses_med,infections,hospitalisations,deaths,cost_per_hosp1,cost_per_hosp2,cost_per_hosp3,cost_per_death1,cost_per_death2,cost_per_death3
+rq2_lmic_newvariant,2 doses + booster,omicron-targeted vaccine,221422,126,344.5,69,1285,12855,32137,6418,64180,160451
+rq2_lmic_newvariant,Expand 2 doses,omicron-targeted vaccine,222768,42,26,-3,17136,171360,428400,-148512,-1485120,-3712800
+rq2_lmic_newvariant,Annual booster,omicron-targeted vaccine,445876,186,469.5,87,1899,18994,47484,10250,102500,256251

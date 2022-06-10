@@ -1,0 +1,4 @@
+name,strategy_name,total_doses_med,infections,hospitalisations,deaths,cost_per_hosp1,cost_per_hosp2,cost_per_hosp3,cost_per_death1,cost_per_death2,cost_per_death3
+rq2_lmic,2 doses + booster,221422,123,344,73,1287,12873,32183,6066,60664,151659
+rq2_lmic,Expand 2 doses,222768,37,20.5,7,21733,217335,543337,63648,636480,1591200
+rq2_lmic,Annual booster,445876,184,464.5,104,1920,19198,47995,8575,85745,214363

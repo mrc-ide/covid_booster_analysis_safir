@@ -1,0 +1,10 @@
+name,strategy_name,variant_scenario,total_doses_med,infections,hospitalisations,deaths,cost_per_hosp1,cost_per_hosp2,cost_per_hosp3,cost_per_death1,cost_per_death2,cost_per_death3
+rq2_lmic_newvariant,2 doses + booster,increased severity,221422,110,865,377,512,5120,12799,1175,11747,29366
+rq2_lmic_newvariant,2 doses + booster,additional immune escape,221422,136,499.5,100,887,8866,22164,4428,44284,110711
+rq2_lmic_newvariant,2 doses + booster,increased severity and immune escape,221422,146,1335,539.5,332,3317,8293,821,8208,20521
+rq2_lmic_newvariant,Expand 2 doses,increased severity,222768,26,-20.5,-6,-21733,-217335,-543337,-74256,-742560,-1856400
+rq2_lmic_newvariant,Expand 2 doses,additional immune escape,222768,47,37,32.5,12042,120415,301038,13709,137088,342720
+rq2_lmic_newvariant,Expand 2 doses,increased severity and immune escape,222768,68,227,75.5,1963,19627,49068,5901,59011,147528
+rq2_lmic_newvariant,Annual booster,increased severity,445876,176,1185.5,511.5,752,7522,18805,1743,17434,43585
+rq2_lmic_newvariant,Annual booster,additional immune escape,445876,205,643,147,1387,13869,34672,6066,60663,151659
+rq2_lmic_newvariant,Annual booster,increased severity and immune escape,445876,231,1836.5,733.5,486,4856,12139,1216,12157,30394

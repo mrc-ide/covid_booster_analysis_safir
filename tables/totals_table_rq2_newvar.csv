@@ -1,0 +1,21 @@
+strategy_name,variant_scenario,total_doses_med,infections,hospitalisations,deaths
+No additional doses,increased severity and immune escape,445664,5473,13835.5,5100
+No additional doses,no new variant,445664,2228,2029,353
+No additional doses,omicron-targeted vaccine,445664,2219,2027.4999999999998,351
+No additional doses,increased severity,445664,2565,6226.5,2302.5
+No additional doses,additional immune escape,445664,5474,4986.5,883.5
+2 doses + booster,no new variant,667086,2104,1703.5,292
+2 doses + booster,omicron-targeted vaccine,667086,2103,1684.5,284
+2 doses + booster,increased severity,667086,2455,5361.5,1925.5
+2 doses + booster,additional immune escape,667086,5339,4487,783.5
+2 doses + booster,increased severity and immune escape,667086,5327,12500.5,4560.5
+Expand 2 doses,no new variant,668432,2179,2007,348.5
+Expand 2 doses,omicron-targeted vaccine,668432,2187,2003,356
+Expand 2 doses,increased severity,668432,2539,6247,2308.5
+Expand 2 doses,additional immune escape,668432,5427,4949.5,851
+Expand 2 doses,increased severity and immune escape,668432,5405,13608.5,5024.5
+Annual booster,no new variant,891540,2034,1568,268.5
+Annual booster,omicron-targeted vaccine,891540,2042,1559.5,266
+Annual booster,increased severity,891540,2389,5041,1791
+Annual booster,additional immune escape,891540,5270,4343.5,736.5
+Annual booster,increased severity and immune escape,891540,5242,11999,4366.5

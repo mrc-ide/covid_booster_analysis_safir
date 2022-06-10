@@ -1,0 +1,13 @@
+name,strategy_name,variant_scenario,total_doses_med,infections,hospitalisations,deaths,cost_per_hosp1,cost_per_hosp2,cost_per_hosp3,cost_per_death1,cost_per_death2,cost_per_death3
+rq1_hic_newvariant,"primary 10+, boost 60+ yearly",increased severity,760014,209,5894,1944,258,2579,6447,782,7819,19548
+rq1_hic_newvariant,"primary 10+, boost 60+ yearly",additional immune escape,760014,294,3216,736,473,4726,11816,2065,20653,51631
+rq1_hic_newvariant,"primary 10+, boost 60+ yearly",increased severity and immune escape,760014,293,9019,3035,169,1685,4213,501,5008,12521
+rq1_hic_newvariant,"primary 10+, boost 10+ yearly",increased severity,2088520,1076,10300,3168,406,4055,10138,1319,13185,32963
+rq1_hic_newvariant,"primary 10+, boost 10+ yearly",additional immune escape,2088520,1536,5278,1047,791,7914,19785,3990,39895,99738
+rq1_hic_newvariant,"primary 10+, boost 10+ yearly",increased severity and immune escape,2088520,1531,14652,4528,285,2851,7127,922,9225,23062
+rq3_hic_newvariant,"primary 10+, boost 60+ yearly",increased severity,760014,234,7937,2660,192,1915,4788,571,5714,14286
+rq3_hic_newvariant,"primary 10+, boost 60+ yearly",additional immune escape,760014,280,4046,954,376,3757,9392,1593,15933,39833
+rq3_hic_newvariant,"primary 10+, boost 60+ yearly",increased severity and immune escape,760014,246,10550,3509,144,1441,3602,433,4332,10829
+rq3_hic_newvariant,"primary 10+, boost 10+ yearly",increased severity,2088520,1064,12673,4063,330,3296,8240,1028,10281,25702
+rq3_hic_newvariant,"primary 10+, boost 10+ yearly",additional immune escape,2088520,1576,6382,1347,655,6545,16363,3101,31010,77525
+rq3_hic_newvariant,"primary 10+, boost 10+ yearly",increased severity and immune escape,2088520,1514,17140,5403,244,2437,6093,773,7731,19327

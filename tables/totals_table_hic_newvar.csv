@@ -1,0 +1,31 @@
+name,strategy_name,variant_scenario,total_doses_med,infections,hospitalisations,deaths
+rq1_hic_newvariant,"primary 10+, 3 doses only",no new variant,2436435,1763,4737,892
+rq1_hic_newvariant,"primary 10+, 3 doses only",increased severity and immune escape,2436435,5020,34856,10359
+rq1_hic_newvariant,"primary 10+, 3 doses only",omicron-targeted vaccine,2436435,1765,4723,893
+rq1_hic_newvariant,"primary 10+, 3 doses only",increased severity,2436435,2179,15800,4716
+rq1_hic_newvariant,"primary 10+, 3 doses only",additional immune escape,2436435,5016,12459,2349
+rq1_hic_newvariant,"primary 10+, boost 60+ yearly",no new variant,3196449,1587,2934,490
+rq1_hic_newvariant,"primary 10+, boost 60+ yearly",omicron-targeted vaccine,3196449,1498,2422,374
+rq1_hic_newvariant,"primary 10+, boost 60+ yearly",increased severity,3196449,1970,9906,2772
+rq1_hic_newvariant,"primary 10+, boost 60+ yearly",additional immune escape,3196449,4722,9243,1613
+rq1_hic_newvariant,"primary 10+, boost 60+ yearly",increased severity and immune escape,3196449,4727,25837,7324
+rq1_hic_newvariant,"primary 10+, boost 10+ yearly",no new variant,4524955,780,1394,248
+rq1_hic_newvariant,"primary 10+, boost 10+ yearly",omicron-targeted vaccine,4524955,501,838,148
+rq1_hic_newvariant,"primary 10+, boost 10+ yearly",increased severity,4524955,1104,5500,1548
+rq1_hic_newvariant,"primary 10+, boost 10+ yearly",additional immune escape,4524955,3480,7181,1302
+rq1_hic_newvariant,"primary 10+, boost 10+ yearly",increased severity and immune escape,4524955,3489,20204,5831
+rq3_hic_newvariant,"primary 10+, 3 doses only",no new variant,2436435,2329,7144,1325
+rq3_hic_newvariant,"primary 10+, 3 doses only",increased severity and immune escape,2436435,5284,41694,12359
+rq3_hic_newvariant,"primary 10+, 3 doses only",omicron-targeted vaccine,2436435,2334,7188,1342
+rq3_hic_newvariant,"primary 10+, 3 doses only",increased severity,2436435,2692,22663,6742
+rq3_hic_newvariant,"primary 10+, 3 doses only",additional immune escape,2436435,5282,14858,2806
+rq3_hic_newvariant,"primary 10+, boost 60+ yearly",no new variant,3196449,2149,4708,745
+rq3_hic_newvariant,"primary 10+, boost 60+ yearly",omicron-targeted vaccine,3196449,2029,3986,618
+rq3_hic_newvariant,"primary 10+, boost 60+ yearly",increased severity,3196449,2458,14726,4082
+rq3_hic_newvariant,"primary 10+, boost 60+ yearly",additional immune escape,3196449,5002,10812,1852
+rq3_hic_newvariant,"primary 10+, boost 60+ yearly",increased severity and immune escape,3196449,5038,31144,8850
+rq3_hic_newvariant,"primary 10+, boost 10+ yearly",no new variant,4524955,1325,2854,464
+rq3_hic_newvariant,"primary 10+, boost 10+ yearly",omicron-targeted vaccine,4524955,1052,2290,358
+rq3_hic_newvariant,"primary 10+, boost 10+ yearly",increased severity,4524955,1628,9990,2679
+rq3_hic_newvariant,"primary 10+, boost 10+ yearly",additional immune escape,4524955,3706,8476,1459
+rq3_hic_newvariant,"primary 10+, boost 10+ yearly",increased severity and immune escape,4524955,3770,24554,6956

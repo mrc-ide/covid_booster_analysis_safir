@@ -1,0 +1,5 @@
+name,strategy_name,variant_scenario,total_doses_med,infections,hospitalisations,deaths,cost_per_hosp1,cost_per_hosp2,cost_per_hosp3,cost_per_death1,cost_per_death2,cost_per_death3
+rq1_hic_newvariant,"primary 10+, boost 60+ yearly",omicron-targeted vaccine,760014,266,2315,518,657,6566,16415,2934,29344,73360
+rq1_hic_newvariant,"primary 10+, boost 10+ yearly",omicron-targeted vaccine,2088520,1263,3899,744,1071,10713,26783,5614,56143,140358
+rq3_hic_newvariant,"primary 10+, boost 60+ yearly",omicron-targeted vaccine,760014,301,3158,707,481,4813,12033,2150,21500,53749
+rq3_hic_newvariant,"primary 10+, boost 10+ yearly",omicron-targeted vaccine,2088520,1277,4854,967,861,8605,21513,4320,43196,107990
